@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/evilb/Documents/Game/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/evilb/Documents/Game/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/evilb/Documents/Game/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/evilb/Documents/Game/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/evilb/Documents/Game/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/evilb/Documents/Game/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/1280px-HD_transparent_picture.uasset",
+				"C:/Users/evilb/Documents/Game/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/healthbar.uasset",
+				"C:/Users/evilb/Documents/Game/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HeathWidget.uasset",
+				"C:/Users/evilb/Documents/Game/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/PointCounter.uasset",
+				"C:/Users/evilb/Documents/Game/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/5717439.uasset",
+				"C:/Users/evilb/Documents/Game/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/HealthPack.uasset",
+				"C:/Users/evilb/Documents/Game/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/cake.uasset",
+				"C:/Users/evilb/Documents/Game/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/CakeMaterial.uasset",
+				"C:/Users/evilb/Documents/Game/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Enemy.uasset",
+				"C:/Users/evilb/Documents/Game/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/GojoMat.uasset",
+				"C:/Users/evilb/Documents/Game/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/Satoru_Gojo.uasset",
+				"C:/Users/evilb/Documents/Game/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/5717439.uasset",
+				"C:/Users/evilb/Documents/Game/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/CakeMaterial.uasset",
+				"C:/Users/evilb/Documents/Game/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/cake_Mat.uasset",
+				"C:/Users/evilb/Documents/Game/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Bullet.uasset",
+				"C:/Users/evilb/Documents/Game/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/CakeMat.uasset",
+				"C:/Users/evilb/Documents/Game/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/JumpScare.uasset",
+				"C:/Users/evilb/Documents/Game/CS 415/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/maxresdefault.uasset"
+			]
+		}
+	]
+}
